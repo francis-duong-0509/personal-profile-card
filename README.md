@@ -13,5 +13,4 @@ Mini project for learning basic HTML and CSS by building a personal profile card
 
 ## Final Result
 
-![Uploading image.png…]()
-
+<img src="./final-result.jpg" alt="Final result" width="100%">

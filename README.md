@@ -13,4 +13,4 @@ Mini project for learning basic HTML and CSS by building a personal profile card
 
 ## Final Result
 
-![Final result](final-result.jpg)
+![Final result](https://raw.githubusercontent.com/francis-duong-0509/personal-profile-card/main/final-result.jpg)
